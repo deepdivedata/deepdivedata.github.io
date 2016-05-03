@@ -10,7 +10,7 @@ Basic human needs, Civic engagement & Governance, Community, Education, Employme
 For each categories, I researched different metrics and scored the category based on average of different indicators considered for each category. More data oriented details such as collection, data wrangling and transformation are provided later in the section. 
 the interactive data visualization and play around a bit to see how well the nation is doing. Unfortunately, it was not possible to gather data for all countries so I considered only the OECD countries for my analysis. Below is the static version of the visualization.
 
-![Test](/img/wellbeing2.jpg "Test")
+![Test](/img/wellbeing2.png "Test")
 
 ### Some Analysis: 
 
