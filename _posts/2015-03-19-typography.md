@@ -1,25 +1,10 @@
 ---
-title: Typograhy example
+title: Data Science for Social Good 
 ---
-![Test](/emerald/img/img-test.png "Test")
-Lorem ipsum dolor sit amet, [consectetur adipisicing](http://www.example.com) elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet debitis ipsa recusandae possimus minima sunt itaque, nulla ducimus officia, consequatur ipsum laudantium magnam hic fuga vero incidunt nostrum. Commodi, perspiciatis ut nostrum fugit nulla cumque voluptate harum nemo accusamus? 
+![Test](/deepdivedata.github.io/img/dssg.png "Test")
 
-## This is a h2
+Yes! data science can help address the problems that matter and make people lives better. Ever since I caught the bug of data science I always wondered if this is something that can do wonders in areas beyond business or commercial world; I mean the problems that really really matter, for example, public health and safety. We live in a world way more technologically advanced yet we are far from addressing several issues in the society; how can data science be leveraged for social good? I believe this area definitely needs great deal of attention in research. “Social good” covers broad range of issues we face in the modern world; something that recently caught my attention is Terrorism owing to the recent terrible and devastating attacks in Paris, Brussels and Istanbul to name a few. Over the years many countries and people have severally been affected by such inhumane acts. Can big data and data science play a big deal in addressing such issues? certainly yes I believe at least to some extent.  This is just one of the several problems we face there are many more like health, education, child welfare, etc., The point I am trying to make is that it is high time that every Government and research institutions focus on mining data for social good.
 
-### h3, h4, h5 and h6 have the same style.
+It is impressive to see the university of Chicago offering summer fellowship program to work on projects with social impact and that can really make a difference; there should be many such open initiatives to promote the interest in mining data for social good. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sed quo atque *perspiciatis*. Eius cum possimus, maxime unde, asperiores neque blanditiis molestiae ipsa odit. **Laboriosam**, error! Ipsa officia magnam at ratione commodi porro nulla consequuntur eum quia nisi officiis cupiditate reprehenderit provident facilis rem, nobis quidem fugiat, et! Tempore maiores reprehenderit laboriosam rerum? 
-
-> This is a blockquote
-
-### Unordered list
-- list 1
-- list 2
-- list 3
-- list 4
-
-### Ordered list
-1. one
-2. two
-3. three
-4. four
+This is kind of introductory article to share my thoughts and I will update the DSSG series with a follow-up on approaches and case studies based on projects already done and how we can leverage relevant open data to predict trends and gain insights.
