@@ -15,7 +15,7 @@ Thanks to the open data intiatives now we have plenty of data available for free
 - [World Bank](http://data.worldbank.org/)
 
 ### Collection 
-- [Extended List](https://github.com/caesar0301/awesome-public-datasets) : This list is really cool collection of data sources from different domain 
+- [Extended List](https://github.com/caesar0301/awesome-public-datasets) : This page has a list of really cool collection of data sources from different domain 
 
 
 ## 2. Basic Statistics 
