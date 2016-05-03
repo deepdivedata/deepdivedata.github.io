@@ -30,7 +30,7 @@ Thanks to the open data intiatives now we have plenty of data available for free
 
 ### 2.2 Online Courses 
 - [Inferential Statistics Coursera](https://www.coursera.org/learn/inferential-statistics-intro/home/info)
-- [Statistics Making Sense of Data Coursera][https://www.coursera.org/course/introstats]
+- [Statistics Making Sense of Data Coursera](https://www.coursera.org/course/introstats)
 - [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro/home/info) 
 - [Introduction to Statistics edX](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
 
