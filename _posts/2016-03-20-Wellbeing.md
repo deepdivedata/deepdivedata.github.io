@@ -3,7 +3,8 @@ title: Beyond GDP – Measuring Well-Being of a Nation
 ---
 ![Test](/img/wellbeing.jpg "Test")
 [Gross domestic product (GDP)](https://en.wikipedia.org/wiki/Gross_domestic_product) has always been seen as a key measure defining prosperity of a nation; however it is just indicates the economic performance of a nation and doesn’t take into account the well-being of the citizens. Is it justifiable to measure the success just based on economic performance? is money everything? are people really happy about their life and living conditions? Does GDP correlate with well-being. Let’s see what data has to say. There are plenty of well-being related indicators available from various data sources; for example, one can measure the well-being of citizens based on quality of life, education, basic facilities, work-life balance, overall happiness, gender equality, income, etc., I have outlined, below, the different categories that I considered to obtain normalized well-being score.
-### Key Categories: ###
+### Key Categories:
+
 Basic human needs, Civic engagement & Governance, Community, Education, Employment, Health, Life satisfaction & Balance, Safety, Sustainability
 
 For each categories, I researched different metrics and scored the category based on average of different indicators considered for each category. More data oriented details such as collection, data wrangling and transformation are provided later in the section. 
