@@ -1,11 +1,61 @@
 ---
 layout: page
-title: About 
+title: Resources 
 ---
-## About
+This page has the curated list of interesting resources to get data, learn how to analyse and visualize data 
 
-I work primarly in the area of data and visual analytics. I enjoy playing with data, crunch numbers and turn the data to meaningful insights, especially concerning the problems that matter which is indeed one of the reasons why I started exploring data journalism as a hobby. I started this blog to share my thoughts, interesting resources and knowledge. I am a big fan of "what? why? and how?" approach to learning new stuffs so you will find that most of my posts, in particular, the tutorials would be in this format.  
+## Amazing Public Data Sources 
 
-I am always open to reading your suggestions to further my website so please feel free to comment and write me. 
 
-Enjoy!
+
+
+## Basic Statistics 
+
+### Free e-books/pdf
+
+
+
+### Online Courses 
+
+
+
+###Books 
+
+
+
+## Machine Learning 
+
+### Free e-books/pdf
+
+
+
+### Online Courses 
+
+
+### Books
+
+
+
+## Data Visualization & Visual Analytics 
+
+
+### Free e-books/pdf
+
+
+### Online Courses 
+
+
+
+### Books
+
+
+## Background Mathematics 
+
+
+
+
+
+## Coding 
+
+
+
