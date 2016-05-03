@@ -4,58 +4,58 @@ title: Resources
 ---
 This page has the curated list of interesting resources to get data, learn how to analyse and visualize data 
 
-## Amazing Public Data Sources 
+## 1. Amazing Public Data Sources 
 
 
 
 
-## Basic Statistics 
+## 2. Basic Statistics 
 
-### Free e-books/pdf
-
-
-
-### Online Courses 
+### 2.1 Free e-books/pdf
 
 
 
-###Books 
+### 2.2 Online Courses 
 
 
 
-## Machine Learning 
-
-### Free e-books/pdf
+### 2.3 Books 
 
 
 
-### Online Courses 
+## 3. Machine Learning 
 
-
-### Books
-
-
-
-## Data Visualization & Visual Analytics 
-
-
-### Free e-books/pdf
-
-
-### Online Courses 
+### 3.1 Free e-books/pdf
 
 
 
-### Books
+### 3.2 Online Courses 
 
 
-## Background Mathematics 
-
-
+### 3.3 Books
 
 
 
-## Coding 
+## 4. Data Visualization & Visual Analytics 
+
+
+### 4.1 Free e-books/pdf
+
+
+### 4.2 Online Courses 
+
+
+
+### 4.3 Books
+
+
+## 5. Background Mathematics 
+
+
+
+
+
+## 6. Coding 
 
 
 
